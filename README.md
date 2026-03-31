@@ -11,6 +11,7 @@
       <br />
       <strong>Contato</strong>
       <br />
+	  <a href="icaroglauco.online">icaroglauco.online</a>
       <a href="mailto:icaroglaucooliveira@gmail.com">icaroglaucooliveira@gmail.com</a>
       <br />
       <a href="https://github.com/glauco-de-oculos">@glauco-de-oculos</a>
@@ -39,10 +40,10 @@
         Uso ferramentas como OpenAI Codex para geração, pesquisa, estruturação e desenvolvimento de código dentro de um fluxo prático de construção.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/backend-sistemas%20coerentes-111111?style=for-the-badge" alt="Backend" />
-        <img src="https://img.shields.io/badge/frontend-componentizacao-111111?style=for-the-badge" alt="Frontend" />
-        <img src="https://img.shields.io/badge/ruby-runtime%20e%20DSL-111111?style=for-the-badge" alt="Ruby" />
-        <img src="https://img.shields.io/badge/IA-camada%20semantica-111111?style=for-the-badge" alt="IA" />
+        <img src="https://img.shields.io/badge/electronlike-sistemas%20fullstack-111111?style=for-the-badge" alt="Backend" />
+        <img src="https://img.shields.io/badge/ReactLike-frontend%20frameworks-111111?style=for-the-badge" alt="Frontend" />
+        <img src="https://img.shields.io/badge/DSL-custom%20runtimes-111111?style=for-the-badge" alt="Ruby" />
+        <img src="https://img.shields.io/badge/IA%20LLMs-cutting%20edge%20semantic%2elayer%20understanding-111111?style=for-the-badge" alt="IA" />
       </p>
 </td>
 </tr>
@@ -140,7 +141,7 @@ Os princípios que orientam essa base:
 | --- | --- |
 | [`icaroglauco.online`](https://github.com/glauco-de-oculos/icaroglauco.online) | Meu portal pessoal, com apresentação editorial do meu trabalho e assistente de IA voltado à triagem e qualificação de contratações |
 | [`macro-oriented-javascript`](https://github.com/glauco-de-oculos/macro-oriented-javascript) | Minha linguagem customizada de JavaScript e TypeScript, com tooling para VS Code, orientada à customização de estruturas e sintaxe, inspirada em Rust e Julia |
-| [`pacioli`](https://github.com/glauco-de-oculos/platform-navigator) | Software B2B de gerenciamento empresarial, organizado como base operacional para processos, dados e fluxo de negócio |
+| [`d-pacioli`](https://github.com/glauco-de-oculos/platform-navigator) | Software B2B de gerenciamento empresarial, organizado como base operacional para processos, dados e fluxo de negócio |
 | [`glauco-asked-ruby`](https://github.com/glauco-de-oculos/glauco-asked-ruby) | Frente ligada a Ruby, DSL e ambientes interpretáveis, explorando runtime, linguagem e construção de software com mais controle estrutural |
 | [`Lumira`](https://github.com/glauco-de-oculos/Lumira) | Plataforma de ensino orientado por monitor de IA, com foco em acompanhamento, mediação de aprendizagem e estruturação de percurso |
 
