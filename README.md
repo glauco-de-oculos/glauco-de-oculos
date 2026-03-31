@@ -31,21 +31,22 @@
       Pesquisa de linguagem e tooling
     </td>
     <td width="68%" valign="top">
-
-# Icaro Glauco
-
-Atuacao voltada a construcao de sistemas completos, integrando backend, frontend e inteligencia artificial sob uma estrutura coesa e orientada a estado.
-
-A abordagem prioriza consistencia entre camadas, clareza operacional e capacidade de evolucao continua, com uso de linguagens, frameworks e ferramentas que permitem controle direto sobre execucao e semantica do sistema.
-
-Uso ferramentas como OpenAI Codex para geracao, pesquisa, estruturacao e desenvolvimento de codigo dentro de um fluxo pratico de construcao.
-
-<p>
-  <img src="https://img.shields.io/badge/backend-sistemas%20coerentes-111111?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/frontend-componentizacao-111111?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/ruby-runtime%20e%20DSL-111111?style=for-the-badge" alt="Ruby" />
-  <img src="https://img.shields.io/badge/IA-camada%20semantica-111111?style=for-the-badge" alt="IA" />
-</p>
+      <h1>Icaro Glauco</h1>
+      <p>
+        Atuacao voltada a construcao de sistemas completos, integrando backend, frontend e inteligencia artificial sob uma estrutura coesa e orientada a estado.
+      </p>
+      <p>
+        A abordagem prioriza consistencia entre camadas, clareza operacional e capacidade de evolucao continua, com uso de linguagens, frameworks e ferramentas que permitem controle direto sobre execucao e semantica do sistema.
+      </p>
+      <p>
+        Uso ferramentas como OpenAI Codex para geracao, pesquisa, estruturacao e desenvolvimento de codigo dentro de um fluxo pratico de construcao.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/backend-sistemas%20coerentes-111111?style=for-the-badge" alt="Backend" />
+        <img src="https://img.shields.io/badge/frontend-componentizacao-111111?style=for-the-badge" alt="Frontend" />
+        <img src="https://img.shields.io/badge/ruby-runtime%20e%20DSL-111111?style=for-the-badge" alt="Ruby" />
+        <img src="https://img.shields.io/badge/IA-camada%20semantica-111111?style=for-the-badge" alt="IA" />
+      </p>
 
     </td>
   </tr>
