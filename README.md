@@ -18,24 +18,25 @@
       <br />
       <strong>Foco atual</strong>
       <br />
-      Backend e frontend integrados
+      <ul>
+        <li>Backend e frontend integrados</li>
+        <li>Ruby e runtime próprio</li>
+        <li>Engenharia de IA e agentes</li>
+        <li>Pesquisa de linguagem e tooling</li>
+      </ul>
       <br />
-      Ruby e runtime proprio
       <br />
-      Engenharia de IA e agentes
-      <br />
-      Pesquisa de linguagem e tooling
     </td>
     <td width="68%" valign="top">
       <h1>Icaro Glauco</h1>
       <p>
-        Atuacao voltada a construcao de sistemas completos, integrando backend, frontend e inteligencia artificial sob uma estrutura coesa e orientada a estado.
+        Atuação voltada à construção de sistemas completos, integrando backend, frontend e inteligência artificial sob uma estrutura coesa e orientada a estado.
       </p>
       <p>
-        A abordagem prioriza consistencia entre camadas, clareza operacional e capacidade de evolucao continua, com uso de linguagens, frameworks e ferramentas que permitem controle direto sobre execucao e semantica do sistema.
+        A abordagem prioriza consistência entre camadas, clareza operacional e capacidade de evolução contínua, com uso de linguagens, frameworks e ferramentas que permitem controle direto sobre execução e semântica do sistema.
       </p>
       <p>
-        Uso ferramentas como OpenAI Codex para geracao, pesquisa, estruturacao e desenvolvimento de codigo dentro de um fluxo pratico de construcao.
+        Uso ferramentas como OpenAI Codex para geração, pesquisa, estruturação e desenvolvimento de código dentro de um fluxo prático de construção.
       </p>
       <p>
         <img src="https://img.shields.io/badge/backend-sistemas%20coerentes-111111?style=for-the-badge" alt="Backend" />
@@ -47,14 +48,14 @@
 </tr>
 </table>
 
-## Estrutura de atuacao
+## Estrutura de atuação
 
 Este perfil organiza meu trabalho em quatro frentes complementares:
 
-- construcao de aplicacoes com integracao real entre regra, interface e fluxo
-- pesquisa de linguagem e ferramental proprio para reduzir atrito entre ideia e execucao
+- construção de aplicações com integração real entre regra, interface e fluxo
+- pesquisa de linguagem e ferramental próprio para reduzir atrito entre ideia e execução
 - engenharia de IA com contexto, estado e contratos bem definidos
-- desenvolvimento orientado a sistema, e nao apenas a telas isoladas
+- desenvolvimento orientado a sistema, e não apenas a telas isoladas
 
 ## Capacidades principais
 
@@ -62,10 +63,10 @@ Este perfil organiza meu trabalho em quatro frentes complementares:
   <summary><strong>Desenvolvimento Backend e Frontend</strong></summary>
   <br />
 
-- construcao de aplicacoes monoliticas com integracao direta entre logica de negocio e interface
-- estruturacao de APIs, servicos e sincronizacao de dados em tempo real
-- desenvolvimento frontend com frameworks baseados em componentizacao
-- leitura conjunta de problema, interface, estado e implementacao
+- construção de aplicações monolíticas com integração direta entre lógica de negócio e interface
+- estruturação de APIs, serviços e sincronização de dados em tempo real
+- desenvolvimento frontend com frameworks baseados em componentização
+- leitura conjunta de problema, interface, estado e implementação
 
 </details>
 
@@ -73,10 +74,10 @@ Este perfil organiza meu trabalho em quatro frentes complementares:
   <summary><strong>Desenvolvimento em Ruby</strong></summary>
   <br />
 
-- implementacao de sistemas e DSLs para definicao estrutural de regras e fluxos
-- uso de JRuby para integracao com runtime Java e aplicacoes desktop com SWT
-- construcao de ambientes interpretaveis com forte controle sobre execucao
-- exploracao de um caminho mais direto entre backend, frontend e software local
+- implementação de sistemas e DSLs para definição estrutural de regras e fluxos
+- uso de JRuby para integração com runtime Java e aplicações desktop com SWT
+- construção de ambientes interpretáveis com forte controle sobre execução
+- exploração de um caminho mais direto entre backend, frontend e software local
 
 </details>
 
@@ -84,41 +85,41 @@ Este perfil organiza meu trabalho em quatro frentes complementares:
   <summary><strong>Engenharia de IA</strong></summary>
   <br />
 
-**Camada semantica**
+**Camada semântica**
 
-- modelagem de contexto, estado e contratos para interacao com LLMs
-- estruturacao de sistemas onde IA entra como parte da logica operacional
-- uso de IA para organizar raciocinio, acelerar iteracao e ampliar execucao sem perder criterio
+- modelagem de contexto, estado e contratos para interação com LLMs
+- estruturação de sistemas onde IA entra como parte da lógica operacional
+- uso de IA para organizar raciocínio, acelerar iteração e ampliar execução sem perder critério
 
-**Orquestracao e ferramentas**
+**Orquestração e ferramentas**
 
-- uso de DSPy para pipelines e controle de execucao de modelos
-- implementacao de agentes com RLM e integracao com runtime de software
-- utilizacao de frameworks gerais de IA para automacao e geracao assistida
+- uso de DSPy para pipelines e controle de execução de modelos
+- implementação de agentes com RLM e integração com runtime de software
+- utilização de frameworks gerais de IA para automação e geração assistida
 
 </details>
 
 <details>
-  <summary><strong>Pesquisa de linguagem e tooling proprio</strong></summary>
+  <summary><strong>Pesquisa de linguagem e tooling próprio</strong></summary>
   <br />
 
 - Glauco Ruby como experimento de runtime desktop solo em Ruby
-- dsljs como ferramenta propria orientada a macros em JavaScript
-- investigacao de ergonomia, composicao e autoria no nivel da linguagem
-- interesse em aproximar semantica, implementacao, interface e entrega no mesmo corpo de sistema
+- dsljs como ferramenta própria orientada a macros em JavaScript
+- investigação de ergonomia, composição e autoria no nível da linguagem
+- interesse em aproximar semântica, implementação, interface e entrega no mesmo corpo de sistema
 
 </details>
 
 ## Base de trabalho
 
-Boa parte desta organizacao vem do material do projeto [`icaroglauco.online`](https://github.com/glauco-de-oculos/icaroglauco.online), que concentra uma apresentacao editorial do meu metodo, da minha base tecnica e da minha forma de conduzir projetos.
+Boa parte desta organização vem do material do projeto [`icaroglauco.online`](https://github.com/glauco-de-oculos/icaroglauco.online), que concentra uma apresentação editorial do meu método, da minha base técnica e da minha forma de conduzir projetos.
 
-Os principios que orientam essa base:
+Os princípios que orientam essa base:
 
-- visao de sistema antes de ornamentacao
+- visão de sistema antes de ornamentação
 - forma e estrutura trabalhando juntas
-- baixa tolerancia a genericidade
-- IA como acelerador de clareza e implementacao, nao como substituto de criterio
+- baixa tolerância a genericidade
+- IA como acelerador de clareza e implementação, não como substituto de critério
 
 ## Stack recorrente
 
@@ -133,15 +134,15 @@ Os principios que orientam essa base:
   <img src="https://img.shields.io/badge/OpenAI%20Codex-20232a?style=flat-square" alt="OpenAI Codex" />
 </p>
 
-## Projetos e frentes
+## Projetos em desenvolvimento
 
-| Frente | Descricao |
+| Projeto | Descrição |
 | --- | --- |
-| [`icaroglauco.online`](https://github.com/glauco-de-oculos/icaroglauco.online) | Porta de entrada editorial do metodo, da base tecnica e da conversa guiada de projeto |
-| [`macro-oriented-javascript`](https://github.com/glauco-de-oculos/macro-oriented-javascript) | Exploracao de linguagem e composicao em JavaScript |
-| [`platform-navigator`](https://github.com/glauco-de-oculos/platform-navigator) | Estruturacao de software com leitura mais sistemica de fluxo e navegacao |
-| [`glauco-asked-ruby`](https://github.com/glauco-de-oculos/glauco-asked-ruby) | Frente ligada a Ruby, DSL e ambientes interpretaveis |
-| [`Lumira`](https://github.com/glauco-de-oculos/Lumira) | Projeto autoral dentro da linha de experimentacao tecnica |
+| [`icaroglauco.online`](https://github.com/glauco-de-oculos/icaroglauco.online) | Meu portal pessoal, com apresentação editorial do meu trabalho e assistente de IA voltado à triagem e qualificação de contratações |
+| [`macro-oriented-javascript`](https://github.com/glauco-de-oculos/macro-oriented-javascript) | Minha linguagem customizada de JavaScript e TypeScript, com tooling para VS Code, orientada à customização de estruturas e sintaxe, inspirada em Rust e Julia |
+| [`pacioli`](https://github.com/glauco-de-oculos/platform-navigator) | Software B2B de gerenciamento empresarial, organizado como base operacional para processos, dados e fluxo de negócio |
+| [`glauco-asked-ruby`](https://github.com/glauco-de-oculos/glauco-asked-ruby) | Frente ligada a Ruby, DSL e ambientes interpretáveis, explorando runtime, linguagem e construção de software com mais controle estrutural |
+| [`Lumira`](https://github.com/glauco-de-oculos/Lumira) | Plataforma de ensino orientado por monitor de IA, com foco em acompanhamento, mediação de aprendizagem e estruturação de percurso |
 
 ## Estatisticas
 
@@ -152,6 +153,6 @@ Os principios que orientam essa base:
 
 ## Fechamento
 
-Meu interesse esta em construir software com mais coesao entre linguagem, comportamento, interface e operacao.
+Meu interesse está em fazer uso avançado de LLM nos fundamentos de linguagem e lógica, com modelagem de dados e camada semântica aplicada.
 
-Quando o projeto pede, isso significa backend, frontend e IA trabalhando juntos. Quando o problema exige, tambem significa pesquisar a propria linguagem, o runtime e o ferramental necessario para sustentar essa integracao com mais controle.
+Quando o projeto pede, isso significa backend, frontend e IA trabalhando juntos. Quando o problema exige, isso também significa pesquisar linguagem, runtime, estruturas de dados e ferramental próprio para sustentar essa integração com mais controle e profundidade.
