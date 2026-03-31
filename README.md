@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Banner editorial de perfil" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="32%" valign="top">
