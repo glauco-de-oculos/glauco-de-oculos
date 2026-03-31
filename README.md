@@ -43,9 +43,8 @@
         <img src="https://img.shields.io/badge/ruby-runtime%20e%20DSL-111111?style=for-the-badge" alt="Ruby" />
         <img src="https://img.shields.io/badge/IA-camada%20semantica-111111?style=for-the-badge" alt="IA" />
       </p>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## Estrutura de atuacao
