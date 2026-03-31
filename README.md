@@ -26,6 +26,7 @@
       <br />
       Pesquisa de linguagem e tooling
     </td>
+    <td width="68%" valign="top">
 
 # Icaro Glauco
 
