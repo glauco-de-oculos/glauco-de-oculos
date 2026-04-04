@@ -11,7 +11,7 @@
       <br />
       <strong>Contato</strong>
       <br />
-	  <a href="icaroglauco.online">icaroglauco.online</a>
+	  <a href="https://icaroglauco.online">icaroglauco.online</a>
       <a href="mailto:icaroglaucooliveira@gmail.com">icaroglaucooliveira@gmail.com</a>
       <br />
       <a href="https://github.com/glauco-de-oculos">@glauco-de-oculos</a>
