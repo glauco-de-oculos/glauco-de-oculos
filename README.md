@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="32%" valign="top">
-      <img src="./assets/profile-avatar.jpg" alt="Retrato editorial de Icaro Glauco" width="100%" />
+      
       <br />
       <br />
       <strong>Icaro Glauco</strong>
