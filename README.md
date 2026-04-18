@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td width="32%" valign="top">
-      
       <br />
       <br />
       <strong>Icaro Glauco</strong>
